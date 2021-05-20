@@ -1,5 +1,11 @@
 ### Hi there 👋
-<img src=https://github-readme-stats.vercel.app/api?username=KhaledKhm&count_private=true&hide_border=true&show_icons=true" alt="KhaledKhm's github stats>
+
+<p align="center">
+  <a href="https://github.com/KhaledKhm">
+    <img src=https://github-readme-stats.vercel.app/api?username=KhaledKhm&count_private=true&hide_border=true&show_icons=true" alt="KhaledKhm's github stats>
+  </a>
+</p>
+
 <!--
 **KhaledKhm/KhaledKhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
