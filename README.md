@@ -55,13 +55,26 @@
 <br>
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khaledkhm&show_icons=true&count_private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/khaledkhm)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=khaledkhm)  
+<!--
 <p>
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledkhm&show_icons=true&locale=en&layout=compact" alt="khaledkhm" /></p>
-<p>&nbsp<img align="right" src="https://github-readme-stats.vercel.app/api?username=khaledkhm&show_icons=true&locale=en" alt="khaledkhm" /></p>
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledkhm&show_icons=true&locale=en&layout=compact" alt="khaledkhm" /> 
+  </p>
 
+<p>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledkhm&show_icons=true&locale=en" alt="khaledkhm" />
+</p>
+<br>
+<p>
+<img align="lerft" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledkhm&" alt="khaledkhm" />
+</p>
+
+->>
 
 <!--
 **KhaledKhm/KhaledKhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
