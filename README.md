@@ -5,7 +5,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> Hi! My name is Khaled, you can just call me Khm. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Khaled, you can just call me Khm. Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
 
 
