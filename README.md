@@ -13,9 +13,7 @@
 
 - 🔭 I’m a soon to be Software Architecture Engineer (final year in university!)
   
-- 🌱 I’m currently learning DevOps and its features and Android Studio
-  
-- 🤔 I’m currently looking for an end of studies internship in Europe!
+- 🤔 I’m currently looking for an end of studies internship in Europe and Tunisia!
   
 - 💬 Ask me about anything
 
