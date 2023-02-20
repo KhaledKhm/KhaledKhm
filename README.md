@@ -13,7 +13,7 @@
 
 - 🔭 I’m a soon to be Software Architecture Engineer (final year in university!)
   
-- 🤔 I’m currently looking for an end of studies internship in Europe and Tunisia!
+- 👨‍💻 I’m currently doing an internship in an enterprise in France using .NetCore 6 Technology!
   
 - 💬 Ask me about anything
 
