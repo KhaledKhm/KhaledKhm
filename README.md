@@ -13,7 +13,7 @@
 
 - 🔭 I’m a soon to be Software Architecture Engineer (final year in university!)
   
-- 👨‍💻 I’m currently looking for an end of studies internship!
+- 👨‍💻 I’m currently in an end of studies internship!
   
 - 💬 Ask me about anything
 
