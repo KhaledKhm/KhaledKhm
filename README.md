@@ -11,9 +11,7 @@
 
 
 
-- 🔭 I’m a soon to be Software Architecture Engineer (final year in university!)
-  
-- 👨‍💻 I’m currently in an end of studies internship!
+- 🔭 I’m a Software Architecture Engineer graduated from ESPRIT
   
 - 💬 Ask me about anything
 
