@@ -70,7 +70,7 @@
 <a href = 'mailto:khalidmaammar@gmail.com'> <img width = '32px' align= 'center' src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png"/></a>
 <a href = 'https://discord.gg/xzju3Cfe8Y'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg"/></a> 
 <br/>
-<h2> 📈 GitHub Stats </h2>
+<h2> GitHub Stats 📈</h2>
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledkhm&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkhm&layout=compact&theme=radical)
