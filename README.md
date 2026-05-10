@@ -72,12 +72,12 @@
 <br/>
 <h2> GitHub Stats 📈</h2>
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledkhm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledkhm&layout=compact&theme=radical)
+![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledKhm&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledKhm&layout=compact&theme=radical)
 <br/>
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=khaledkhm">
+    <img src="https://komarev.com/ghpvc/?username=KhaledKhm">
 </a>
 <a href="https://github.com/khaledkhm?tab=followers"><img src="https://img.shields.io/github/followers/khaledkhm?label=Followers&style=social" alt="GitHub Badge"></a>
 
