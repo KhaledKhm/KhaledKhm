@@ -72,7 +72,7 @@
 <br/>
 <h2> GitHub Stats 📈</h2>
 
-![Khaled's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledKhm&show_icons=true&theme=radical)
+![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhaledKhm&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledKhm&layout=compact&theme=radical)
 <br/>
 <br/>
